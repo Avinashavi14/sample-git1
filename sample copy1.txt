@@ -1,1 +1,3 @@
 Hi everyone
+Welcome to our git
+we have to learn git in this chapter
